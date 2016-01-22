@@ -1,0 +1,25 @@
+{
+  "player": {
+    "name": "Brad",
+    "sprite": "spr_player",
+    "attr": {
+      "str": 3,
+      "hab": 2,
+      "end": 10,
+      "arm": 1,
+      "pow": 1
+    }
+  },
+
+  "enemy": {
+    "name": "Abigail",
+    "sprite": "spr_enemy",
+    "attr": {
+      "str": 1,
+      "hab": 1,
+      "end": 1,
+      "arm": 1,
+      "pow": 1
+    }
+  }
+}
